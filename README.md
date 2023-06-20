@@ -23,7 +23,7 @@ This is a simple authentication app built with React that allows users to regist
 ### Installation
 
 1. Clone the repository:
-git clone 
+git clone https://github.com/yyoteyy/project-react
 
 2. Navigate to the project directory:
 cd project-react
